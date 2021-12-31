@@ -1,18 +1,18 @@
 [
     {
         "icon": "bx bx-user",
-        "content": "Profile"
+        "content": "Perfil"
     },
     {
         "icon": "bx bx-wallet-alt",
-        "content": "My Wallet"
+        "content": "Minha Carteira"
     },
     {
         "icon": "bx bx-cog",
-        "content": "Settings"
+        "content": "Configurações"
     },
     {
         "icon": "bx bx-log-out-circle bx-rotate-180",
-        "content": "Logout"
+        "content": "Sair"
     }
 ]
